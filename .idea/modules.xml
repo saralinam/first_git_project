@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Git_Project/First_Git_Project.iml" filepath="$PROJECT_DIR$/Git_Project/First_Git_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poatGreJDBC/poatGreJDBC.iml" filepath="$PROJECT_DIR$/poatGreJDBC/poatGreJDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/postGreJDBC.iml" filepath="$PROJECT_DIR$/untitled/postGreJDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/postGreJDBC/postGreJDBC (1).iml" filepath="$PROJECT_DIR$/postGreJDBC/postGreJDBC (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/proGreJDBC/proGreJDBC.iml" filepath="$PROJECT_DIR$/proGreJDBC/proGreJDBC.iml" />
+    </modules>
+  </component>
+</project>

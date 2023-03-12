@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="proGreJDBC" />
+        <module name="poatGreJDBC" />
+        <module name="postGreJDBC" />
+        <module name="First_Git_Project" />
+        <module name="postGreJDBC (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="First_Git_Project" target="11" />
+      <module name="poatGreJDBC" target="11" />
+      <module name="postGreJDBC" target="11" />
+      <module name="postGreJDBC (1)" target="11" />
+      <module name="proGreJDBC" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
